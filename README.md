@@ -28,6 +28,8 @@ Skin-Cancer-Classification-using-Topology/
 ```
 
 ---
+## Visualization
+![image](https://github.com/user-attachments/assets/69fec0ce-8db0-4b1e-a31c-9ed76e9abe16)
 
 ## 👁️ License
 
