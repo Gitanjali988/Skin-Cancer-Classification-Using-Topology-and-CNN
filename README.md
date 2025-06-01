@@ -31,6 +31,12 @@ Skin-Cancer-Classification-using-Topology/
 ## Visualization
 ![image](https://github.com/user-attachments/assets/69fec0ce-8db0-4b1e-a31c-9ed76e9abe16)
 
+![image](https://github.com/user-attachments/assets/dfaec990-d587-44dc-acef-a62c44af9174)
+
+![image](https://github.com/user-attachments/assets/a8bb4921-d29e-4947-881b-399d1ed3835d)
+
+---
+
 ## 👁️ License
 
 Copyright (c) 2025 Fnu Gitanjali  
