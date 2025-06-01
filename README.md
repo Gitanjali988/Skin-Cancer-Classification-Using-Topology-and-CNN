@@ -7,8 +7,8 @@ This project applies **Topological Data Analysis (TDA)** and **Persistent Homolo
 
 ## 🔍 Overview
 
-- Dataset: [Kaggle - Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
-- Techniques used:
+- **Dataset**: [HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+- **Techniques used**:
   - Persistent Homology
   - Kepler Mapper
   - CNN for image classification
@@ -29,11 +29,13 @@ Skin-Cancer-Classification-using-Topology/
 
 ---
 ## Visualization
+
+![image](https://github.com/user-attachments/assets/a8bb4921-d29e-4947-881b-399d1ed3835d)
+
 ![image](https://github.com/user-attachments/assets/69fec0ce-8db0-4b1e-a31c-9ed76e9abe16)
 
 ![image](https://github.com/user-attachments/assets/dfaec990-d587-44dc-acef-a62c44af9174)
 
-![image](https://github.com/user-attachments/assets/a8bb4921-d29e-4947-881b-399d1ed3835d)
 
 ---
 
