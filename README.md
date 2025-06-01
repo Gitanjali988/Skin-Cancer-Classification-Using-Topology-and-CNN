@@ -1,4 +1,4 @@
-# 🧬 Skin Cancer Classification using Topology
+# 🧬 Skin Cancer Classification using Topology and CNN
 ![License: All Rights Reserved](https://img.shields.io/badge/license-All--Rights--Reserved-red)
 
 This project applies **Topological Data Analysis (TDA)** and **Persistent Homology** techniques to classify skin lesion images from the HAM10000 image dataset.
