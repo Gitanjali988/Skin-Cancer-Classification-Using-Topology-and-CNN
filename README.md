@@ -8,6 +8,8 @@ This project applies **Topological Data Analysis (TDA)** and **Persistent Homolo
 ## 🔍 Overview
 
 - **Dataset**: [HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+- **Programming & Tools**: Python, Jupyter Notebook
+- **Libraries**: matplotlib, Scikit-TDA, Gudhi, giotto-tda, ripser, sklearn.decomposition, Keras, tensorflow, sklearn.metric
 - **Techniques used**:
   - Persistent Homology
   - Kepler Mapper
