@@ -17,19 +17,6 @@ This project applies **Topological Data Analysis (TDA)** and **Persistent Homolo
   - Random Forest and KNN for comparison
 
 ---
-
-## 📊 Project Structure
-
-```bash
-Skin-Cancer-Classification-using-Topology/
-├── data/            # Dataset and metadata
-├── images/          # Plots and visualizations
-├── notebooks/       # Jupyter notebooks
-├── report/          # Final report and documentation
-└── README.md
-```
-
----
 ## Visualization
 
 ![image](https://github.com/user-attachments/assets/a8bb4921-d29e-4947-881b-399d1ed3835d)
